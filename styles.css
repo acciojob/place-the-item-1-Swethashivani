@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+.item1{
+    background-color: red;
+    width: 500;
+    height: 500;
+}
+.item2{
+   background-color: blue;
+    width: 500;
+    height: 500;
+}
+ 
+.item3{
+    background-color: green;
+    width: 500;
+    height: 500;
+}
+ .holder{
+background-color: white;
+display: flex;
+font-size: 50 ;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: space-between;
+
+ }
